@@ -1,0 +1,6 @@
+<?php
+
+# Definir controladores
+require_once('./app/controllers/landingPageController.php');
+//require_once('./app/controllers/exampleController.php');
+//require_once('./app/controllers/errorController.php');
