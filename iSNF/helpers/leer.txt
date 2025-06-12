@@ -1,0 +1,11 @@
+- apirest
+- email
+- fechas
+- imagenes
+- lang
+- logger
+- password
+- post                (generarpasswrd, validarfortaleza, )
+- session             ()
+- spamfilter          (check_text, load,filters, regex_match_from_filter_file) 
+- url                 (redirect, redirect-back, base-url, url-path, sluggiffy)
